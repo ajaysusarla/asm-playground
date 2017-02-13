@@ -2,3 +2,5 @@
 asmcmdlineargs
 asmcmdlinecount
 parseargs
+flattenargs
+global
